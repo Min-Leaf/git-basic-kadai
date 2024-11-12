@@ -1,0 +1,21 @@
+PS C:\Users\Greenery\OneDrive\デスクトップ\git_challenge> git add .
+PS C:\Users\Greenery\OneDrive\デスクトップ\git_challenge> git commit -m 課題の1回目コミット
+[main (root-commit) 5d26333] 課題の1回目コミット
+ 1 file changed, 1 insertion(+)
+ create mode 100644 "OneDrive/\343\203\207\343\202\271\343\202\257\343\203\210\343\203\203\343\203\227/git_challenge/hello_world.txt"
+PS C:\Users\Greenery\OneDrive\デスクトップ\git_challenge> git add .
+PS C:\Users\Greenery\OneDrive\デスクトップ\git_challenge> git commit -m 課題の２回目コミット
+[main 213bcd3] 課題の２回目コミット
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\Greenery\OneDrive\デスクトップ\git_challenge> git log  
+commit 213bcd3f592569a76b4c6de45a926d4018abd18e (HEAD -> main)
+Author: Min_Leaf <leaf-green3106hrd@outlook.com>
+Date:   Tue Nov 12 08:43:04 2024 +0900
+
+    課題の２回目コミット
+
+commit 5d26333a85f075729b085c5aebef1f5c8fc15330
+Author: Min_Leaf <leaf-green3106hrd@outlook.com>
+Date:   Tue Nov 12 08:41:34 2024 +0900
+
+    課題の1回目コミット
